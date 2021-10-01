@@ -5,4 +5,3 @@
 - 🌱 I’m currently learning Python - intro to CyberX
 - 💞️ I’m looking to collaborate on Web development project !
 - 📫 How to reach me drperstry@gmail.com
-
